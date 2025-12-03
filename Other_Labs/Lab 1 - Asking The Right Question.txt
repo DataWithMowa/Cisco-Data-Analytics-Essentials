@@ -1,0 +1,47 @@
+Lab 1 - Asking the right question 
+
+Step 1 - Ask a question
+
+How will this question be useful to a marketing executive of a travel agency. Where do people travel to most in Nigeria? 
+From outside Nigeria and  even from states inside Nigeria?
+
+Targeted Marketing Campaigns
+Understanding the most popular destinations allows the executive to focus advertising spend where demand already exists. If data shows that Lagos residents frequently travel to Abuja, or that international visitors primarily visit Lagos, Port Harcourt, and Abuja, they can create targeted campaigns for these routes with higher conversion potential.
+
+Dynamic Pricing Strategy
+Knowing peak travel routes enables smart pricing:
+- Premium pricing** during high-demand periods for popular destinations (like December holidays to eastern Nigeria for family visits)
+- Discount campaigns for underutilized routes to stimulate demand
+- Early bird specials for routes with predictable seasonal patterns
+
+Inventory and Partnership Management
+If data reveals that many Nigerians travel to Dubai, London, or the US, the agency can negotiate better rates with airlines serving those routes due to volume. For domestic travel, if Calabar or Enugu are trending destinations, they can secure hotel partnerships there.
+
+Distress Sales Optimization
+When the agency has unsold inventory, knowing secondary popular destinations helps them pivot quickly. If premium packages to one location aren't selling, they can offer distress discounts on alternative popular routes where there's latent demand.
+
+Customer Segmentation
+Travel pattern data reveals customer types:
+- Business travelers (Lagos-Abuja corridor)
+- Diaspora visitors (international arrivals)
+- Holiday travelers (coastal destinations, cultural sites)
+- Religious pilgrims (Mecca, Jerusalem)
+
+Each segment responds to different messaging and offers.
+
+Seasonal Campaign Planning
+Understanding when people travel where (end-of-year to hometowns, summer beach vacations, business conference seasons) allows proactive campaign scheduling rather than reactive selling.
+
+Descriptive Analysis is the kind of analysis to be done using historical data but data of how many years will be useful in getting a 97% answer for example?
+given the COVID-19 pandemic disrupted travel (2020-2022), I'd recommend:
+
+Most recent 1-3 years (2023-2025) for current accurate patterns,
+
+Step 2 - Determine the data needed.
+To answer this question, i need these three dataset.
+
+Origin → Destination → Number of bookings
+
+Where can i get these data?
+from Statistca, Globaldata, Airline Authoities  or from the travel agency i want to analyze from.
+
