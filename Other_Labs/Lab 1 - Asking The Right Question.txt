@@ -10,7 +10,7 @@ Understanding the most popular destinations allows the executive to focus advert
 
 Dynamic Pricing Strategy
 Knowing peak travel routes enables smart pricing:
-- Premium pricing** during high-demand periods for popular destinations (like December holidays to eastern Nigeria for family visits)
+- Premium pricing during high-demand periods for popular destinations (like December holidays to eastern Nigeria for family visits)
 - Discount campaigns for underutilized routes to stimulate demand
 - Early bird specials for routes with predictable seasonal patterns
 
@@ -44,4 +44,5 @@ Origin → Destination → Number of bookings
 
 Where can i get these data?
 from Statistca, Globaldata, Airline Authoities  or from the travel agency i want to analyze from.
+
 
