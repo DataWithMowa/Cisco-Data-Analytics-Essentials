@@ -1,0 +1,98 @@
+# Lab 2.1.5: Introduction to Microsoft Excel
+
+## Objectives
+- Access a free version of Microsoft Excel  
+- Save and open an Excel workbook  
+- Work with cells, rows, and columns  
+- Manage Excel worksheets  
+- Enter data and format cells  
+
+
+## Part 1: Accessing the Free Microsoft Office Suite
+
+Steps:
+1. Navigate to Office.com  
+2. Sign up for the free version of Office  
+3. Log in with a Microsoft account  
+4. Launch the Excel app → New blank workbook  
+
+Question: In addition to Excel, what are three other applications available for free with an Office.com account?  
+Answer: Word, Outlook, and PowerPoint  
+
+## Part 2: Saving and Opening an Excel Workbook
+
+Steps:
+1. Save workbook → File → Save As → Save a copy to OneDrive → Name: `My_Bicycle_Shop_Sales.xlsx`  
+2. Open workbook → File → Open → Recent files → Select `My_Bicycle_Shop_Sales`  
+
+## Part 3: Working with Cells, Rows, and Columns
+
+### Step 1: Changing the Active Cell
+- Click inside cell A1 → becomes active.  
+- Click into cell B2 → becomes active.  
+
+Question: What happens if you type the coordinates of a cell directly into the Cell Name Box?  
+Answer: The cell I typed now becomes the active cell and has a border around it.  
+
+
+### Step 2: Selecting Columns and Rows
+- Click column header → selects entire column.  
+- Drag divider → resize column.  
+- Click row header → selects entire row.  
+
+Question: How can you select more than one column or row?  
+Answer: Press down the control key and click the column heads or rows you want to select.  
+
+
+### Step 3: Adding Rows and Columns
+- Use Insert button in Cells group → Insert Sheet Rows/Columns.  
+- Or right-click header → Insert.  
+
+
+### Step 4: Selecting a Range of Cells
+- Example: Select B2 through C6.  
+
+Question: What is the result of typing A1:C5 in the Cell Name Box?  
+Answer: A1 through C5 is highlighted and selected.  
+
+
+### Step 5: Selecting the Entire Sheet
+- Click triangle at top-left corner or use Ctrl+A.  
+
+
+## Part 4: Managing Excel Worksheets
+
+### Step 1: Adding and Deleting Worksheets
+- Add worksheet → click + or use SHIFT+F11.  
+- Delete worksheet → right-click tab → Delete.  
+
+Question: What happens to the data in a worksheet when the worksheet is deleted?  
+Answer: The data is deleted too.  
+
+
+### Step 2: Renaming Worksheets
+- Right-click tab → Rename.  
+
+
+## Part 5: Entering Data and Formatting Cells
+
+### Step 1: Enter Data into Cells
+Example table:
+
+| Sales_Date | Product_Category | Order_Quantity | Revenue |
+|------------|------------------|----------------|---------|
+| 1/1/2022   | Bikes            | 2              | 4,837   |
+| 1/2/2022   | Clothing         | 19             | 168     |
+| 1/3/2022   | Accessories      | 1              | 34      |
+
+
+### Step 2: Formatting Cell Contents
+- Bold headers → select A1:D1 → Ctrl+B.  
+- Align Product_Category column → right align.  
+- Format Revenue column → currency.  
+
+Question: What keyboard shortcuts are used to bold, italicize, and underline cell contents?  
+Answer: Ctrl + B, Ctrl + I, Ctrl + U  
+
+## Completed Lab Notes
+This document contains both the lab instructions and my completed answers for submission as a GitHub exercise.
