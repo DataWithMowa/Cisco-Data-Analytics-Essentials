@@ -6,4 +6,4 @@ In this lab, I learnt how to access a free version of Microsoft Excel.
 * **Part 4:** Managing Worksheets
 * **Part 5:** Entering Data and Formatting Cells
 
-You'll find the content of the lab exercise and the excel practice file in the folder.
+You'll find the content of the lab exercise and the excel practice file in this folder.
