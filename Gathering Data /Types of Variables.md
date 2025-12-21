@@ -70,3 +70,34 @@ Unlike eggs, you can be 5.5 feet tall, or 5.55 feet tall. These values can be br
 | **Ordinal** | Star ratings for a movie | No | **Yes** |
 | **Discrete** | Number of kids in a class | No | **Yes** |
 | **Continuous** | The exact weight of a dog | **Yes** | **Yes** |
+
+## Knowledge Check: Matching Variables to Categories
+
+Test your understanding by matching the **Variable Type** to the correct **Real-World Example**.
+
+### Categories
+* **A. Continuous:** Measurements that can have decimals and a wide range.
+* **B. Nominal:** Labels or names with no specific order.
+* **C. Discrete:** Whole numbers that are counted.
+* **D. Ordinal:** Categories where the specific order is important.
+
+---
+
+### Practice Exercise
+Match the options below to the correct category letter:
+
+| Variable Example | Category Letter | Variable Type |
+| :--- | :--- | :--- |
+| **Number of Users** | **C** | Discrete |
+| **Eye Color** | **B** | Nominal |
+| **Student Class Rank** | **D** | Ordinal |
+| **Sales Volume** | **A** | Continuous (Ratio) |
+
+
+
+---
+
+### Quick Tip for Identification
+If you are stuck, ask yourself these two questions:
+1. **Is it a number?** If yes, it is **Quantitative** (Discrete or Continuous).
+2. **Does the order matter?** If yes, it is either **Ordinal** or **Numerical**.
