@@ -65,5 +65,10 @@ Now that the spreadsheets are linked, updates to the data in the source sheet ca
 
 ## Reflection
 **What are some situations in which you would want to use Workbook links to keep data synchronized between workbooks?**
+- When managing data that is too large for a single file.
+
+- When different departments (Sales, HR, Finance) manage their own data but you need a combined report.
+
+- When you want to create a "Master Dashboard" without cluttering it with thousands of rows of raw data.
 
 *[Answer Area]*
