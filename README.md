@@ -27,8 +27,3 @@ The capstone project for this portfolio involved analyzing **\[Describe the gene
 * **Outcome:** The final results were visualized in Tableau, producing an interactive dashboard that revealed \[Mention a key insight or finding, e.g., "a strong correlation between GDP and renewable energy adoption"].
 
 This portfolio serves as a concrete demonstration of my readiness to turn raw data into actionable business intelligence.
-
-
-This description is approximately 320 words and provides a professional overview of your skills and the repository's contents.
-
-Would you like me to help you brainstorm a strong **Project Name** for the "Featured Project" section?
