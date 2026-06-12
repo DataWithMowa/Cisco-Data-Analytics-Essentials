@@ -14,4 +14,29 @@ Another part of the SQL language is called DDL, or Data Definition Language, and
 
 A note on SQL queries: SQL is so universally supported by relational database systems (RDBSs) that relational databases are often referred to as “SQL databases.” The SQL language itself is an open-source standard, but each RDBS supports its own selection of SQL keywords, so it is important to refer to the documentation of the specific RDBS we are using.
 
-## 2. 
+## 2. What is SQL?
+
+Simply put, this is explaining the basics of SQL (the language used to talk to databases):
+
+**What SQL is:** A programming language used to communicate with relational databases (databases that organize data into tables).
+
+**What it can do:** SQL statements let you retrieve, update, delete, and create data, plus set permissions for who can access what.
+
+**The most important command — SELECT:** This is the one you'll use most. It pulls data out of a table. Example:
+
+```sql
+SELECT * FROM patients;
+```
+
+This means "show me everything (the `*` means 'all') from the patients table."
+
+**Two categories of SQL commands:**
+- **DDL (Data Definition Language)** – commands like CREATE DATABASE/TABLE and DROP DATABASE/TABLE, used mainly by database admins to build or remove entire databases/tables
+- **DML (Data Manipulation Language)** – commands like SELECT, used to work with the actual data inside tables (this is the focus for now)
+
+**A few style notes/conventions:**
+- It's common to write SQL keywords in CAPS (like `SELECT`, `FROM`) for readability, but SQL doesn't actually care — lowercase works fine too
+- It's common practice to end statements with a semicolon `;`
+- Spaces don't matter to SQL, but it's best to avoid spaces in table/column names to prevent headaches
+
+**Bottom line:** SQL is how you "ask" a database questions or give it instructions, and `SELECT * FROM tablename;` is your basic "show me everything in this table" command.
