@@ -13,3 +13,5 @@ This query uses the keyword SELECT because we are selecting specific data to rea
 Another part of the SQL language is called DDL, or Data Definition Language, and it allows us to create and maintain the database schema. With DDL we can do things like create tables, define their structure, and specify the data type that is expected for each column.
 
 A note on SQL queries: SQL is so universally supported by relational database systems (RDBSs) that relational databases are often referred to as “SQL databases.” The SQL language itself is an open-source standard, but each RDBS supports its own selection of SQL keywords, so it is important to refer to the documentation of the specific RDBS we are using.
+
+## 2. 
